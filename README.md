@@ -1,4 +1,4 @@
-### Object Oriented Programming and Data Structures 2022
+### Object Oriented Programming and Data Structures - 2022
 
 # Bank Simulation Runner
 
